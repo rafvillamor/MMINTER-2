@@ -1,0 +1,19 @@
+Step 1: Start
+Step 2: Input your name
+Step 3: Accept Name of user
+Step 4: Input your hourly rate salary
+Step 5: Accept hourly rate salary of user
+Step 6: Solve for the Gross Rate
+Step 7: Set Variable A for hourly rate salary and Variable B for hours worked
+Step 8: Set Variable C as the Gross Rate
+Step 9: To solve for Gross Rate, input A * B = C
+Step 10: Solve for Deduction
+Step 11: Set Variable A for gross pay and Variable B for deduction rate
+Step 12: Set Variable C as the Deduction
+Step 13: To solve for Deduction, input A * B = C
+Step 14: Solve for Net Pay
+Step 15: Set Variable A for gross pay and Variable B for deduction
+Step 16: Set Variable C for Net Pay
+Step 17: To solve for Net Pay, input A - B = C
+Step 18: After computing for everything show Users name with the answers to Gross Rate, Deduction, and Net Pay
+Step 19: Stop
