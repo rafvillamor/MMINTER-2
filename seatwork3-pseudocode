@@ -1,0 +1,19 @@
+Start
+Read Grade
+If grade is greater than or equal to 97
+Write 4.0
+If grade is greater than or equal to 93 but less than 97
+Write 3.5
+If grade is greater than or equal to 89 but less than 93
+Write 3.0
+If grade is greater than or equal to 85 but less than 89
+Write 2.5
+If grade is greater than or equal to 80 but less than 85
+Write 2.0
+If grade is greater than or equal to 75 but less than 80
+Write 1.5
+If grade is greater than or equal to 70 but less than 75
+Write 1.0
+If grade is less than 70
+Write R
+End
