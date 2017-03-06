@@ -1,0 +1,22 @@
+<p id="demo"></p>
+<script>
+var Grade = "100";
+  switch (Grade) {
+    case "100":
+      document.getElementById("demo").innerHTML = "";
+      break;
+    case "99":
+      document.getElementById("demo").innerHTML = "Mabuhay, Andres!";
+      break;
+     case "98":
+      document.getElementById("demo").innerHTML = "Mabuhay, Andres!";
+      break;
+     case "97":
+      document.getElementById("demo").innerHTML = "Mabuhay, Andres!";
+      break;
+      
+    default:
+      document.getElementById("demo").innerHTML = "I dont know you."
+}
+
+</script>
